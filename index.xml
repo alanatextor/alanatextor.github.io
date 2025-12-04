@@ -22,7 +22,7 @@
 
 
 <p>The Nebraska soccer program has been a consistent force since its first season in 1995. Over several years, players have gone on to be professional and highly respected athletes.</p>
-<p>Two well-known standouts developed within the program are Haley Hanson and Caroline Flynn. Hanson left her mark on the university with several accolades, including being a Big Ten Co-Offensive Player of the Week, Big Ten Preseason Honors List and a participant in the U.S. U-23 Women’s National Team Training Camp. She is currently playing professionally in the NWSL with the Orlando Pride, earning a championship with the team last year in 2024.</p>
+<p>Two well-known standouts developed within the program are Haley Hanson and Caroline Flynn. Hanson left her mark on the university with several accolades, including being named a Big Ten Co-Offensive Player of the Week, on the Big Ten Preseason Honors List and a participant in the U.S. U-23 Women’s National Team Training Camp. She is currently playing professionally in the NWSL with the Orlando Pride, earning a championship with the team last year in 2024.</p>
 <p>Caroline Flynn, distinguished herself during her college years. In 2013, Caroline won the Big Ten regular season and tournament alongside her teammates. During her first season in 2012, she started 18 out of 20 games and upon graduation, Caroline’s accomplishments extended to being drafted as the 40th overall pick in the NWSL.</p>
 <p>Are Caroline and Haley among the best soccer players to emerge from the Nebraska soccer program? Let’s look at data that compares Big Ten players and teams to the Nebraska athletes.</p>
 <div class="cell">
@@ -595,7 +595,7 @@ font-style: inherit;">"Source: NCAA | Graphic by Alana Textor"</span>)</span>
 </div>
 </div>
 </div>
-<p>Flynn’s goal and shot attempts far higher than other players in the Big Ten. Flynn attempted 35 shots and scored five goals, averaging one goal for every seven shots taken.</p>
+<p>Flynn’s goal and shot attempts were far higher than other players in the Big Ten. Flynn attempted 35 shots and scored five goals, averaging one goal for every seven shots taken.</p>
 <p>Hanson scored three goals aligning with the Big Ten average and recorded 22 shot attempts. Hanson scored one goal for almost every seven shots taken.</p>
 <div class="cell">
 <details class="code-fold">
@@ -927,23 +927,23 @@ font-style: inherit;">"Caroline Flynn"</span></span>
 <span id="cb3-61">  )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
-<div id="yldpntauyk" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#yldpntauyk table {
+<div id="wqcmxkkcvy" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#wqcmxkkcvy table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#yldpntauyk thead, #yldpntauyk tbody, #yldpntauyk tfoot, #yldpntauyk tr, #yldpntauyk td, #yldpntauyk th {
+#wqcmxkkcvy thead, #wqcmxkkcvy tbody, #wqcmxkkcvy tfoot, #wqcmxkkcvy tr, #wqcmxkkcvy td, #wqcmxkkcvy th {
   border-style: none;
 }
 
-#yldpntauyk p {
+#wqcmxkkcvy p {
   margin: 0;
   padding: 0;
 }
 
-#yldpntauyk .gt_table {
+#wqcmxkkcvy .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -969,12 +969,12 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-left-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_caption {
+#wqcmxkkcvy .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#yldpntauyk .gt_title {
+#wqcmxkkcvy .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -986,7 +986,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-bottom-width: 0;
 }
 
-#yldpntauyk .gt_subtitle {
+#wqcmxkkcvy .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -998,7 +998,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-top-width: 0;
 }
 
-#yldpntauyk .gt_heading {
+#wqcmxkkcvy .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1010,13 +1010,13 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_bottom_border {
+#wqcmxkkcvy .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_col_headings {
+#wqcmxkkcvy .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1031,7 +1031,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_col_heading {
+#wqcmxkkcvy .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1051,7 +1051,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   overflow-x: hidden;
 }
 
-#yldpntauyk .gt_column_spanner_outer {
+#wqcmxkkcvy .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1063,15 +1063,15 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   padding-right: 4px;
 }
 
-#yldpntauyk .gt_column_spanner_outer:first-child {
+#wqcmxkkcvy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yldpntauyk .gt_column_spanner_outer:last-child {
+#wqcmxkkcvy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yldpntauyk .gt_column_spanner {
+#wqcmxkkcvy .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1083,11 +1083,11 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   width: 100%;
 }
 
-#yldpntauyk .gt_spanner_row {
+#wqcmxkkcvy .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#yldpntauyk .gt_group_heading {
+#wqcmxkkcvy .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1113,7 +1113,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   text-align: left;
 }
 
-#yldpntauyk .gt_empty_group_heading {
+#wqcmxkkcvy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1128,15 +1128,15 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   vertical-align: middle;
 }
 
-#yldpntauyk .gt_from_md > :first-child {
+#wqcmxkkcvy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#yldpntauyk .gt_from_md > :last-child {
+#wqcmxkkcvy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#yldpntauyk .gt_row {
+#wqcmxkkcvy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1155,7 +1155,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   overflow-x: hidden;
 }
 
-#yldpntauyk .gt_stub {
+#wqcmxkkcvy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1168,7 +1168,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   padding-right: 5px;
 }
 
-#yldpntauyk .gt_stub_row_group {
+#wqcmxkkcvy .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1182,15 +1182,15 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   vertical-align: top;
 }
 
-#yldpntauyk .gt_row_group_first td {
+#wqcmxkkcvy .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#yldpntauyk .gt_row_group_first th {
+#wqcmxkkcvy .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#yldpntauyk .gt_summary_row {
+#wqcmxkkcvy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1200,16 +1200,16 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   padding-right: 5px;
 }
 
-#yldpntauyk .gt_first_summary_row {
+#wqcmxkkcvy .gt_first_summary_row {
   border-top-style: none;
   border-top-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_first_summary_row.thick {
+#wqcmxkkcvy .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#yldpntauyk .gt_last_summary_row {
+#wqcmxkkcvy .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1219,7 +1219,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_grand_summary_row {
+#wqcmxkkcvy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1229,7 +1229,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   padding-right: 5px;
 }
 
-#yldpntauyk .gt_first_grand_summary_row {
+#wqcmxkkcvy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1239,7 +1239,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-top-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_last_grand_summary_row_top {
+#wqcmxkkcvy .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1249,11 +1249,11 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_striped {
+#wqcmxkkcvy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yldpntauyk .gt_table_body {
+#wqcmxkkcvy .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1262,7 +1262,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_footnotes {
+#wqcmxkkcvy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1276,7 +1276,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_footnote {
+#wqcmxkkcvy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1285,7 +1285,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   padding-right: 5px;
 }
 
-#yldpntauyk .gt_sourcenotes {
+#wqcmxkkcvy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1299,7 +1299,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   border-right-color: #D3D3D3;
 }
 
-#yldpntauyk .gt_sourcenote {
+#wqcmxkkcvy .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1307,72 +1307,72 @@ font-style: inherit;">"Caroline Flynn"</span></span>
   padding-right: 5px;
 }
 
-#yldpntauyk .gt_left {
+#wqcmxkkcvy .gt_left {
   text-align: left;
 }
 
-#yldpntauyk .gt_center {
+#wqcmxkkcvy .gt_center {
   text-align: center;
 }
 
-#yldpntauyk .gt_right {
+#wqcmxkkcvy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yldpntauyk .gt_font_normal {
+#wqcmxkkcvy .gt_font_normal {
   font-weight: normal;
 }
 
-#yldpntauyk .gt_font_bold {
+#wqcmxkkcvy .gt_font_bold {
   font-weight: bold;
 }
 
-#yldpntauyk .gt_font_italic {
+#wqcmxkkcvy .gt_font_italic {
   font-style: italic;
 }
 
-#yldpntauyk .gt_super {
+#wqcmxkkcvy .gt_super {
   font-size: 65%;
 }
 
-#yldpntauyk .gt_footnote_marks {
+#wqcmxkkcvy .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#yldpntauyk .gt_asterisk {
+#wqcmxkkcvy .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#yldpntauyk .gt_indent_1 {
+#wqcmxkkcvy .gt_indent_1 {
   text-indent: 5px;
 }
 
-#yldpntauyk .gt_indent_2 {
+#wqcmxkkcvy .gt_indent_2 {
   text-indent: 10px;
 }
 
-#yldpntauyk .gt_indent_3 {
+#wqcmxkkcvy .gt_indent_3 {
   text-indent: 15px;
 }
 
-#yldpntauyk .gt_indent_4 {
+#wqcmxkkcvy .gt_indent_4 {
   text-indent: 20px;
 }
 
-#yldpntauyk .gt_indent_5 {
+#wqcmxkkcvy .gt_indent_5 {
   text-indent: 25px;
 }
 
-#yldpntauyk .katex-display {
+#wqcmxkkcvy .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#yldpntauyk div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#wqcmxkkcvy div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -1451,7 +1451,7 @@ font-style: inherit;">"Caroline Flynn"</span></span>
 </div>
 </div>
 <p>The list of Nebraska players are listed alongside the average number of goals and assists per game. Caroline Flynn is listed right underneath notable players, like retired professionals Jaycie Johnson (Ackerman) and Sydney Miramontez. Caroline Flynn averaged .29 goals and assists per game, followed by Haley Hanson with around .20 goals and assists per game.</p>
-<p>Caroline and Haley were strong competitors and leaders in college athletics, but to list them as some of the best players in the Big Ten is open to interpretation. Caroline retired shortly after her professional debut for Kansas City FC in 2017. Haley is currently looking to win her second NWSL Championship this season.</p>
+<p>Caroline and Haley were strong competitors and leaders in college athletics, but to list them as some of the best players in the Big Ten is open to interpretation. Caroline retired shortly after her professional debut for Kansas City FC in 2017. This season, Haley’s team, the Orlando Pride, fell short in the NWSL Championship semi-finals.</p>
 
 
 
